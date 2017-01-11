@@ -1,2 +1,4 @@
 # hello-world
-My very firs repository for learning GitHub
+My very first repository for learning GitHub
+
+I work for Oticon A/S in Denmark in a small team called Team Continuous.
